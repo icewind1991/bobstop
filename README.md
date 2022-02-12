@@ -15,6 +15,10 @@ recording, removing additive inconsistencies in viewmodel positioning from seeki
 
 This is done by inserting commands in the demo file to change the "bobbing cycle".
 
+## Where
+
+You can get the program from the [github releases](https://github.com/icewind1991/bobstop/releases)
+
 ## How
 
 ```bash
