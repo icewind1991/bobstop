@@ -9,3 +9,6 @@ tf-demo-parser = "0.4"
 
 [profile.dev]
 opt-level = 2
+
+[profile.release]
+lto = true
